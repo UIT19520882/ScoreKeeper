@@ -1,6 +1,5 @@
 # ScoreKeeper
-Udemy Section 26
-Score Keeper:
+Mini project for learning purpose:
 - DOM
 - Event
 - Bulma
